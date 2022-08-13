@@ -37,6 +37,7 @@
         "jcalderonzumba/mink-phantomjs-driver": "^0.3.3",
         "mikey179/vfsstream": "^1.6",
         "drupal/coder": "^8.3",
+        "drupal/ctools: ^3.11",
         "drupal/drupal-extension": "^4.2",
         "drupal/drupal-driver": "^2.2"
     },
